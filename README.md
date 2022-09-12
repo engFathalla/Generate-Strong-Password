@@ -1,1 +1,1 @@
-# Generate-Strong-Password
+![](IMG/password_img.jpeg)
